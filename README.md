@@ -1,6 +1,8 @@
-# Next.js & NextUI Template
+# Personal Site
 
-This is a template for creating applications using Next.js 14 (app directory) and NextUI (v2).
+[https://www.basarureten.dev/](https://www.basarureten.dev/)
+
+This site was built by using a template for creating applications using Next.js 14 (app directory) and NextUI (v2).
 
 [Try it on CodeSandbox](https://githubbox.com/nextui-org/next-app-template)
 
