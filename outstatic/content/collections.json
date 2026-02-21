@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "title": "Pieces",
+    "slug": "pieces",
+    "path": "outstatic/content/pieces",
+    "children": []
+  }
+]
